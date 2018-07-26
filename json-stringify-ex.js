@@ -1,3 +1,4 @@
+/* Usage of JSON stringify */
 let room = {
   number: 23
 };
